@@ -1,2 +1,4 @@
 import pygame
-mo
+from pygame.locals import *
+pygame.init()
+pygame.display.init()
